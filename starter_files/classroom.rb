@@ -1,3 +1,17 @@
+#        ,___          .-;'
+#        `"-.`\_...._/`.`
+#     ,      \        /
+#  .-' ',    / ()   ()\
+# `'._   \  /()    .  (|
+#     > .' ;,     -'-  /
+#    / <   |;,     __.;
+#    '-.'-.|  , \    , \
+#       `>.|;, \_)    \_)
+#        `-;     ,    /
+#           \    /   <
+#            '. <`'-,_)
+#             '._)
+
 # Given a grade_hash, student name, and assignment number, return the score
 # for that student and assignment. Note that Ruby counts arrays from 0, but
 # we are referring to them as 1-10.
